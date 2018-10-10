@@ -1,0 +1,757 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#"
+    xmlns:j.1="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#hasFugasNaturalesAcometida/1000"
+    xmlns:j.2="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#hasFugasNaturalesRedDeDistribucion/100"
+    xmlns:j.3="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#hasNumeroDeAcometidas/"
+    xmlns:j.4="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#hasAguaNoRegistrada/Km/"
+    xmlns:j.5="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#hasPoblacionServida/">
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.0097</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.9073469235242775</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#nanyos</j.0:unidad>
+    <j.0:value>25</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>21944372</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>0</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>298.93</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>55.4115292652553</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>199</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/1000acom</j.0:unidad>
+    <j.0:value>14.61</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/100km</j.0:unidad>
+    <j.0:value>13.18</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>420</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Anyo</rdf:type>
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>304.46</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.0077</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#nanyos</j.0:unidad>
+    <j.0:value>24</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>20479287</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>28708</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#nanyos</j.0:unidad>
+    <j.0:value>25</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>298.39</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>22308686</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>0</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>54.005705076551166</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>1105</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>186</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>74</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>493</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/100km</j.0:unidad>
+    <j.0:value>17.11</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>25190646</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/1000acom</j.0:unidad>
+    <j.0:value>16.05</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>3.5774790613630256</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>0</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>289</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>1116</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.9004588626154766</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>25.46</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>20721121</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>180</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>167</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>32</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>23572415</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.19</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>298.55</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>22247729</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>4.455</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>52.89050179211469</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>469</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/1000acom</j.0:unidad>
+    <j.0:value>16.91</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>3.87310164798302</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/1000acom</j.0:unidad>
+    <j.0:value>10.28</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>7.329805728518057</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>25.54</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>51.92267612524462</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.0078</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>1120</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.9022446628763409</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>21225990</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>23878686</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>55.65123689096292</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>183</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>41</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>15.32</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>10.16</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.196</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/1000acom">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/1000acom</j.0:unidad>
+    <j.0:value>14.18</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>427</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>5.739787181996086</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>1100</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#kwh</j.0:unidad>
+    <j.0:value>737851</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>50.55226582417449</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>21544417</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>1123</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#nanyos</j.0:unidad>
+    <j.0:value>20</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>24006089</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.9332364125070428</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.279</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>25.56</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>43</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>0</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>25.49</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#nanyos">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>8.66</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>418</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>28406</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>5.730517503805174</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#kwh</j.0:unidad>
+    <j.0:value>782357</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.9288364630709312</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>25.42</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3</j.0:unidad>
+    <j.0:value>21781851</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>1122</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#zona1.1">
+    <j.5:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2009</j.5:LongitudRedDistribucion>
+    <j.0:hasConsumoElectricoAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2013</j.0:hasConsumoElectricoAbastecimiento>
+    <j.0:hasLongitudRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2011</j.0:hasLongitudRedAbastecimiento>
+    <j.0:hasEscapesYRoturasEnAccesoriosDeRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2010</j.0:hasEscapesYRoturasEnAccesoriosDeRed>
+    <j.5:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2013</j.5:LongitudRedDistribucion>
+    <j.5:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2011</j.5:LongitudRedDistribucion>
+    <j.3:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2013</j.3:LongitudRedDistribucion>
+    <j.4:dia>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2010</j.4:dia>
+    <j.0:hasFugasEnAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2010</j.0:hasFugasEnAcometidas>
+    <j.0:hasLongitudRedRenovada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2012</j.0:hasLongitudRedRenovada>
+    <j.4:dia>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2013</j.4:dia>
+    <j.0:hasNumeroDeAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2012</j.0:hasNumeroDeAcometidas>
+    <j.0:hasFugasEnRedDeTransporte>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2013</j.0:hasFugasEnRedDeTransporte>
+    <j.0:hasFugasEnAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2009</j.0:hasFugasEnAcometidas>
+    <j.0:hasRendimientoTecnicoHidraulicoDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2014</j.0:hasRendimientoTecnicoHidraulicoDistribucion>
+    <j.4:dia>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2012</j.4:dia>
+    <j.0:hasRendimientoTecnicoHidraulicoDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2011</j.0:hasRendimientoTecnicoHidraulicoDistribucion>
+    <j.0:hasRendimientoTecnicoHidraulicoDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2012</j.0:hasRendimientoTecnicoHidraulicoDistribucion>
+    <j.3:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2011</j.3:LongitudRedDistribucion>
+    <j.1:Acometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2014</j.1:Acometidas>
+    <j.0:hasAguaRegistrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2010</j.0:hasAguaRegistrada>
+    <j.0:hasRenovacionRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2012</j.0:hasRenovacionRedAbastecimiento>
+    <j.1:Acometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2013</j.1:Acometidas>
+    <j.0:hasAguaSuministrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2014</j.0:hasAguaSuministrada>
+    <j.0:hasEficienciaDetecciónDeFugasDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2013</j.0:hasEficienciaDetecciónDeFugasDistribucion>
+    <j.1:Acometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2010</j.1:Acometidas>
+    <j.0:hasEficienciaDetecciónDeFugasDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2012</j.0:hasEficienciaDetecciónDeFugasDistribucion>
+    <j.0:hasNumeroDeAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2011</j.0:hasNumeroDeAcometidas>
+    <j.0:hasAguaSuministrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2013</j.0:hasAguaSuministrada>
+    <j.3:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2010</j.3:LongitudRedDistribucion>
+    <j.0:hasIndiceLinealDeConsumo>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2011</j.0:hasIndiceLinealDeConsumo>
+    <j.0:hasEdadMediaDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2012</j.0:hasEdadMediaDistribucion>
+    <j.0:hasFugasEnRedDeTransporte>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2010</j.0:hasFugasEnRedDeTransporte>
+    <j.0:hasIndiceLinealDeConsumo>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2010</j.0:hasIndiceLinealDeConsumo>
+    <j.0:hasFugasEnRedDeDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2012</j.0:hasFugasEnRedDeDistribucion>
+    <j.0:hasFugasEnRedDeTransporte>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2009</j.0:hasFugasEnRedDeTransporte>
+    <j.0:hasFugasEnAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2014</j.0:hasFugasEnAcometidas>
+    <j.0:hasConsumoElectricoAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2014</j.0:hasConsumoElectricoAbastecimiento>
+    <j.5:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2014</j.5:LongitudRedDistribucion>
+    <j.0:hasAguaSuministrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2011</j.0:hasAguaSuministrada>
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Zona1.1</rdf:type>
+    <j.0:hasFugasEnAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2013</j.0:hasFugasEnAcometidas>
+    <j.0:hasLongitudRedRenovada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2013</j.0:hasLongitudRedRenovada>
+    <j.0:hasAguaRegistrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2013</j.0:hasAguaRegistrada>
+    <j.0:hasEdadMediaDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2014</j.0:hasEdadMediaDistribucion>
+    <j.2:KmRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2013</j.2:KmRed>
+    <j.0:hasFugasEnRedDeDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2009</j.0:hasFugasEnRedDeDistribucion>
+    <j.0:hasLongitudRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2014</j.0:hasLongitudRedAbastecimiento>
+    <j.0:hasConsumoElectricoAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2012</j.0:hasConsumoElectricoAbastecimiento>
+    <j.0:hasAguaSuministrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2010</j.0:hasAguaSuministrada>
+    <j.0:hasRenovacionRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2009</j.0:hasRenovacionRedAbastecimiento>
+    <j.2:KmRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2010</j.2:KmRed>
+    <j.4:dia>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2011</j.4:dia>
+    <j.4:dia>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2009</j.4:dia>
+    <j.0:hasEscapesYRoturasEnAccesoriosDeRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2012</j.0:hasEscapesYRoturasEnAccesoriosDeRed>
+    <j.0:hasIndiceLinealDeConsumo>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2013</j.0:hasIndiceLinealDeConsumo>
+    <j.0:hasFugasEnRedDeDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2010</j.0:hasFugasEnRedDeDistribucion>
+    <j.0:hasEficienciaDetecciónDeFugasDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2014</j.0:hasEficienciaDetecciónDeFugasDistribucion>
+    <j.0:hasAguaSuministrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2009</j.0:hasAguaSuministrada>
+    <j.0:hasNumeroDeAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2010</j.0:hasNumeroDeAcometidas>
+    <j.0:hasIndiceLinealDeConsumo>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2014</j.0:hasIndiceLinealDeConsumo>
+    <j.0:hasFugasEnRedDeTransporte>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2011</j.0:hasFugasEnRedDeTransporte>
+    <j.0:hasAguaRegistrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2011</j.0:hasAguaRegistrada>
+    <j.0:hasAguaRegistrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2009</j.0:hasAguaRegistrada>
+    <j.0:hasRenovacionRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2013</j.0:hasRenovacionRedAbastecimiento>
+    <j.0:hasRendimientoTecnicoHidraulicoDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2010</j.0:hasRendimientoTecnicoHidraulicoDistribucion>
+    <j.0:hasLongitudRedRenovada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2009</j.0:hasLongitudRedRenovada>
+    <j.0:hasFugasEnRedDeDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2013</j.0:hasFugasEnRedDeDistribucion>
+    <j.0:hasAguaRegistrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2014</j.0:hasAguaRegistrada>
+    <j.2:KmRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2014</j.2:KmRed>
+    <j.3:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2009</j.3:LongitudRedDistribucion>
+    <j.0:hasEscapesYRoturasEnAccesoriosDeRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2014</j.0:hasEscapesYRoturasEnAccesoriosDeRed>
+    <j.0:hasLongitudRedRenovada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2014</j.0:hasLongitudRedRenovada>
+    <j.0:hasLongitudRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2012</j.0:hasLongitudRedAbastecimiento>
+    <j.5:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2012</j.5:LongitudRedDistribucion>
+    <j.5:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2010</j.5:LongitudRedDistribucion>
+    <j.0:hasNumeroDeAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2009</j.0:hasNumeroDeAcometidas>
+    <j.0:hasLongitudRedRenovada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2010</j.0:hasLongitudRedRenovada>
+    <j.0:hasLongitudRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2013</j.0:hasLongitudRedAbastecimiento>
+    <j.3:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2012</j.3:LongitudRedDistribucion>
+    <j.0:hasIndiceLinealDeConsumo>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2009</j.0:hasIndiceLinealDeConsumo>
+    <j.0:hasEscapesYRoturasEnAccesoriosDeRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2011</j.0:hasEscapesYRoturasEnAccesoriosDeRed>
+    <j.0:hasConsumoElectricoAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2011</j.0:hasConsumoElectricoAbastecimiento>
+    <j.2:KmRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2011</j.2:KmRed>
+    <j.0:hasLongitudRedRenovada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2011</j.0:hasLongitudRedRenovada>
+    <j.0:hasRendimientoTecnicoHidraulicoDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2013</j.0:hasRendimientoTecnicoHidraulicoDistribucion>
+    <j.0:hasLongitudRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2010</j.0:hasLongitudRedAbastecimiento>
+    <j.0:hasNumeroDeAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2014</j.0:hasNumeroDeAcometidas>
+    <j.0:hasRendimientoTecnicoHidraulicoDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2009</j.0:hasRendimientoTecnicoHidraulicoDistribucion>
+    <j.0:hasEficienciaDetecciónDeFugasDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2009</j.0:hasEficienciaDetecciónDeFugasDistribucion>
+    <j.3:LongitudRedDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2014</j.3:LongitudRedDistribucion>
+    <j.0:hasNumeroDeAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2013</j.0:hasNumeroDeAcometidas>
+    <j.0:hasEdadMediaDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2009</j.0:hasEdadMediaDistribucion>
+    <j.0:hasFugasEnRedDeTransporte>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2014</j.0:hasFugasEnRedDeTransporte>
+    <j.0:hasRenovacionRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2011</j.0:hasRenovacionRedAbastecimiento>
+    <j.0:hasFugasEnRedDeTransporte>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2012</j.0:hasFugasEnRedDeTransporte>
+    <j.4:dia>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2014</j.4:dia>
+    <j.0:hasFugasEnRedDeDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2014</j.0:hasFugasEnRedDeDistribucion>
+    <j.0:hasIndiceLinealDeConsumo>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1IndiceLinealConsumo2012</j.0:hasIndiceLinealDeConsumo>
+    <j.1:Acometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2012</j.1:Acometidas>
+    <j.0:hasEdadMediaDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2011</j.0:hasEdadMediaDistribucion>
+    <j.0:hasConsumoElectricoAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2010</j.0:hasConsumoElectricoAbastecimiento>
+    <j.0:hasRenovacionRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2010</j.0:hasRenovacionRedAbastecimiento>
+    <j.0:hasConsumoElectricoAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2009</j.0:hasConsumoElectricoAbastecimiento>
+    <j.1:Acometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2011</j.1:Acometidas>
+    <j.0:hasRenovacionRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2014</j.0:hasRenovacionRedAbastecimiento>
+    <j.0:hasEficienciaDetecciónDeFugasDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2011</j.0:hasEficienciaDetecciónDeFugasDistribucion>
+    <j.0:hasAguaSuministrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaSuministrada2012</j.0:hasAguaSuministrada>
+    <j.0:hasEficienciaDetecciónDeFugasDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2010</j.0:hasEficienciaDetecciónDeFugasDistribucion>
+    <j.0:hasEscapesYRoturasEnAccesoriosDeRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2013</j.0:hasEscapesYRoturasEnAccesoriosDeRed>
+    <j.0:hasLongitudRedAbastecimiento>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedAbastacimiento2009</j.0:hasLongitudRedAbastecimiento>
+    <j.0:hasEdadMediaDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2010</j.0:hasEdadMediaDistribucion>
+    <j.1:Acometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2009</j.1:Acometidas>
+    <j.2:KmRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2009</j.2:KmRed>
+    <j.0:hasFugasEnRedDeDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2011</j.0:hasFugasEnRedDeDistribucion>
+    <j.0:hasAguaRegistrada>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaRegistrada2012</j.0:hasAguaRegistrada>
+    <j.0:hasEdadMediaDistribucion>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2013</j.0:hasEdadMediaDistribucion>
+    <j.2:KmRed>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2012</j.2:KmRed>
+    <j.0:hasFugasEnAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2012</j.0:hasFugasEnAcometidas>
+    <j.0:hasFugasEnAcometidas>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasAcometidas2011</j.0:hasFugasEnAcometidas>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.093</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EscapesRoturasEnAccesoriosRed2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>55</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1AguaNoRegistradaPorKmPorDia2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#m3/km/dia</j.0:unidad>
+    <j.0:value>5.514753610611789</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>10.79</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.25</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>28218</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/100km</j.0:unidad>
+    <j.0:value>14.88</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RendimientoTecnicoHidraulicoDistribucion2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.8831742147462197</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#kwh</j.0:unidad>
+    <j.0:value>687761</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#nanyos</j.0:unidad>
+    <j.0:value>24</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.009</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>302.66</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.0139</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>28109</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>0</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1LongituRedRenovada2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#km</j.0:unidad>
+    <j.0:value>8.67</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#kwh</j.0:unidad>
+    <j.0:value>866827</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>28626</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/100km</j.0:unidad>
+    <j.0:value>13.71</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#kwh">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2009">
+    <j.0:enElAnyo>2009</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/100km</j.0:unidad>
+    <j.0:value>16.37</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2013">
+    <j.0:enElAnyo>2013</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#kwh</j.0:unidad>
+    <j.0:value>702373</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/100km">
+    <rdf:type>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#Unidad</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EdadMediaDistribucion2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#nanyos</j.0:unidad>
+    <j.0:value>23</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1RenovacionRedAbastecimiento2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.004</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1PoblacionServidaPorLongitud2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>299.71</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1EficienciaDeteccionFugasDistribucion2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#tantoPorCiento</j.0:unidad>
+    <j.0:value>0.186</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedTransporte2011">
+    <j.0:enElAnyo>2011</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>0</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidasPorLongitud2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/km</j.0:unidad>
+    <j.0:value>25.58</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasEnRedDistribucion2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>189</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1ConsumoElectricoAbastecimiento2014">
+    <j.0:enElAnyo>2014</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#kwh</j.0:unidad>
+    <j.0:value>743213</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesRedDistribucionPor100Km2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/100km</j.0:unidad>
+    <j.0:value>14.38</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1FugasNaturalesAcometidaPor1000Acometidas2010">
+    <j.0:enElAnyo>2010</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero/1000acom</j.0:unidad>
+    <j.0:value>14.81</j.0:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#1.1NumAcometidas2012">
+    <j.0:enElAnyo>2012</j.0:enElAnyo>
+    <j.0:unidad>http://www.khaos.es/ontologies/lucentia/ontologies/water.owl#numero</j.0:unidad>
+    <j.0:value>28465</j.0:value>
+  </rdf:Description>
+</rdf:RDF>
