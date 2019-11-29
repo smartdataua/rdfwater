@@ -1,7 +1,7 @@
 # rdfwater
 rdfwater ontology 
 
-In the folder [out](out) is the final RDF file. The code in order to create the RDF file is on the folder [src] (src):
+In the folder [out](out) is the final RDF file. The code in order to create the RDF file is on the folder [src](src) :
 
 *  CSV is to process the CSV file. 
 *  ParseCSV is to define the RDF triples from the CSV. 
